@@ -4,6 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <h2>Welcome to our next program</h2>
     <h3>God is my Father, and Jesus is my HEROS.</h3>
+    <h4>Today is another graceful and blessed day in Jesus Christ.</h4>
 
     <label for="Name"><b>Enter First Name </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
